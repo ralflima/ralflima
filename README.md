@@ -1,12 +1,15 @@
-### Hi there I'm Ralf 👋
-
-- :pushpin: I'm from Blumenau - Brazil
-- :computer: Full Stack developer
-- :dart: Marketing Analyst
-- :mortar_board: Teacher
-
+<!--### Hi there I'm Ralf 👋 
 ## Let's talk?
 [![Linkedin Badge](https://img.shields.io/badge/-Ralf%20Lima-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ralf-lima-3b93708a/)](https://www.linkedin.com/in/ralf-lima-3b93708a/)
+-->
+## Olá pessoal, aqui é o Ralf 👋
+
+:pushpin: Moro em Blumenau - Santa Catarina<br>
+:computer: Desenvolvedor Full Stack<br>
+:dart: Analista de Marketing Digital<br>
+:mortar_board: Professor
+
+
 
 <!--
 **ralflima/ralflima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Some skills:
+## Softwares, linguagens, frameworks e bibliotecas que utilizo:
 <table>
   <tbody>
     <tr>
@@ -117,7 +120,7 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-## Stats:
+## Informações adicionais:
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ralflima&show_icons=true&hide=["issues"])
 
