@@ -5,6 +5,7 @@
 - :dart: Marketing Analyst
 - :mortar_board: Teacher
 
+## Let's talk?
 [![Linkedin Badge](https://img.shields.io/badge/-Ralf%20Lima-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ralf-lima-3b93708a/)](https://www.linkedin.com/in/ralf-lima-3b93708a/)
 
 <!--
