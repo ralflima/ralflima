@@ -122,6 +122,6 @@ Here are some ideas to get you started:
 
 ## Informações adicionais:
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ralflima&show_icons=true&hide=["issues"])
+![ralflima github stats](https://github-readme-stats.vercel.app/api?username=ralflima&show_icons=true&hide=["issues"])
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ralflima)
+![ralflima github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=ralflima)
