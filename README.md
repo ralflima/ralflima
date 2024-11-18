@@ -85,9 +85,9 @@ Here are some ideas to get you started:
         <span>Java</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/c%2B%2B">
         <br>
-        <span>Spring<span>
+        <span>C#<span>
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/wordpress.png">
@@ -102,9 +102,9 @@ Here are some ideas to get you started:
         <span>Ionic Framework<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
         <br>
-        <span>Photoshop</span>
+        <span>Spring<span>
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
