@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 -->
 
 ## Trabalho com as seguintes tecnologias:
-Tecnologias com as quais trabalho:
 
 <table width="100%">
   <tbody>
