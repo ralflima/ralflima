@@ -68,9 +68,9 @@ Here are some ideas to get you started:
         <span>Node.js</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/net-framework">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/nodejs">
         <br>
-        <span>.NET<span>
+        <span>Node.JS<span>
       </td>
     </tr>
     <tr>
