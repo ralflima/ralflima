@@ -5,8 +5,9 @@
 ## Olá pessoal, aqui é o Ralf 👋
 
 :computer: Desenvolvedor Full Stack<br>
-:dart: Analista de Marketing Digital<br>
-:mortar_board: Professor
+:speech_balloon: Palestrante<br>
+:mortar_board: Professor (Angular, React, Vue.js, Java, DART, C#, Spring, ASP.NET Core, MySQL, Oracle e MongoDB)<br>
+
 
 
 
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
         <span>JavaScript</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/angular.png">
         <br>
         <span>Angular</span>
       </td>
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
         <span>React</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/vue-js">
         <br>
         <span>Node.js</span>
       </td>
