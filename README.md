@@ -97,7 +97,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/python">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/python">
         <br>
         <span>Python<span>
       </td>
