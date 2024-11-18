@@ -6,8 +6,8 @@
 
 :computer: Desenvolvedor Full Stack<br>
 :speech_balloon: Palestrante<br>
-:mortar_board: Professor (Angular, React, Vue.js, Java, DART, C#, Python, Spring, ASP.NET Core, MySQL, Oracle e MongoDB)<br>
-
+:mortar_board: Professor<br>
+:email: contato@ralflima.com<br>
 
 
 
@@ -146,4 +146,4 @@ Here are some ideas to get you started:
 
 ![ralflima github stats](https://github-readme-stats.vercel.app/api?username=ralflima&show_icons=true&hide=["issues"])
 
-![ralflima github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=ralflima)
+<!-- ![ralflima github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=ralflima) -->
