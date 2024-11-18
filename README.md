@@ -46,6 +46,11 @@ Here are some ideas to get you started:
         <span>JavaScript</span>
       </td>
       <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+        <br>
+        <span>Bootstrap</span>
+      </td>
+      <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
         <br>
         <span>Angular</span>
@@ -63,14 +68,9 @@ Here are some ideas to get you started:
         <span>Node.js</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/.net-framework.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/net-framework">
         <br>
-        <span>Sass<span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
-        <br>
-        <span>Bootstrap</span>
+        <span>.NET<span>
       </td>
     </tr>
     <tr>
