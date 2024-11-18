@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Softwares, linguagens, frameworks e bibliotecas que utilizo:
+## Domínio das seguintes tecnologias:
 <table>
   <tbody>
     <tr>
