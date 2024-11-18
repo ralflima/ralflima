@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <span>JavaScript</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/angular.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
         <br>
         <span>Angular</span>
       </td>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
         <span>Node.js</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/sass.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/.net-framework">
         <br>
         <span>Sass<span>
       </td>
