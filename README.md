@@ -4,7 +4,6 @@
 -->
 ## Olá pessoal, aqui é o Ralf 👋
 
-:pushpin: Moro em Blumenau - Santa Catarina<br>
 :computer: Desenvolvedor Full Stack<br>
 :dart: Analista de Marketing Digital<br>
 :mortar_board: Professor
