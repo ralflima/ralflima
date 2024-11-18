@@ -6,7 +6,7 @@
 
 :computer: Desenvolvedor Full Stack<br>
 :speech_balloon: Palestrante<br>
-:mortar_board: Professor (Angular, React, Vue.js, Java, DART, C#, Spring, ASP.NET Core, MySQL, Oracle e MongoDB)<br>
+:mortar_board: Professor (Angular, React, Vue.js, Java, DART, C#, Python, Spring, ASP.NET Core, MySQL, Oracle e MongoDB)<br>
 
 
 
@@ -85,21 +85,21 @@ Here are some ideas to get you started:
         <span>Java</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/c%2B%2B">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/c-sharp-logo">
         <br>
         <span>C#<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/wordpress.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/dart">
         <br>
-        <span>Wordpress</span>
+        <span>DART</span>
       </td>
     </tr>
     <tr>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png">
+        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/python">
         <br>
-        <span>Ionic Framework<span>
+        <span>Python<span>
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
@@ -107,14 +107,14 @@ Here are some ideas to get you started:
         <span>Spring<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/net-framework">
         <br>
-        <span>Illustrator</span>
+        <span>ASP.NET Core</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/flutter">
         <br>
-        <span>Git</span>
+        <span>Flutter</span>
       </td>
     </tr>
   </tbody>
