@@ -117,6 +117,28 @@ Here are some ideas to get you started:
         <span>Flutter</span>
       </td>
     </tr>
+    <tr>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/mysql-logo">
+        <br>
+        <span>MySQL<span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/oracle-logo">
+        <br>
+        <span>Oracle<span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/mingodb">
+        <br>
+        <span>MongoDB</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/git">
+        <br>
+        <span>Git</span>
+      </td>
+    </tr>
   </tbody>
 </table>
 
