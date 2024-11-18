@@ -129,7 +129,7 @@ Here are some ideas to get you started:
         <span>Oracle<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/mingodb">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/mongodb">
         <br>
         <span>MongoDB</span>
       </td>
