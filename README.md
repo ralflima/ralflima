@@ -50,13 +50,13 @@ Here are some ideas to get you started:
         <br>
         <span>Bootstrap</span>
       </td>
+      </tr>
+      <tr>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
         <br>
         <span>Angular</span>
       </td>
-    </tr>
-    <tr>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
         <br>
