@@ -2,11 +2,11 @@
 ## Let's talk?
 [![Linkedin Badge](https://img.shields.io/badge/-Ralf%20Lima-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ralf-lima-3b93708a/)](https://www.linkedin.com/in/ralf-lima-3b93708a/)
 -->
-## Olá pessoal, aqui é o Ralf 👋
+## Olá pessoal 👋
 
 :computer: Desenvolvedor Full Stack<br>
-:speech_balloon: Palestrante<br>
 :mortar_board: Professor<br>
+:speech_balloon: Palestrante<br>
 :email: contato@ralflima.com<br>
 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Domínio das seguintes tecnologias:
+## Trabalho com as seguintes tecnologias:
 <table>
   <tbody>
     <tr>
